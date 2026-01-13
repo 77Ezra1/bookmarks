@@ -4,3 +4,8 @@
 
 ---
 
+## skill市场网址
+
+- [skillsmp.com](https://skillsmp.com/zh)
+  - Added: 2026-01-13
+
