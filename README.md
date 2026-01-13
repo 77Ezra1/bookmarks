@@ -1,5 +1,7 @@
 # My Bookmarks
 
+[English](README.md) | [中文](README_CN.md)
+
 > Curated links managed by [Claude Code](https://github.com/anthropics/claude-code)
 
 ---
