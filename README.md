@@ -12,7 +12,7 @@
 |----------|-------|
 | [skill市场网址](#skill市场网址) | 1 |
 | [测试](#测试) | 1 |
-| [工具网址](#工具网址) | 1 |
+| [工具网址](#工具网址) | 2 |
 
 ---
 
@@ -23,6 +23,7 @@
 | skillsmp.com | Skill marketplace website | [Link](https://skillsmp.com/zh) | [skill市场网址](#skill市场网址) | 2026-01-13 |
 | Example Domain | Example website for testing | [Link](https://example.com) | [测试](#测试) | 2026-01-13 |
 | AnyRouter Console | AnyRouter 控制台 | [Link](https://anyrouter.top/console) | [工具网址](#工具网址) | 2026-01-14 |
+| DeepSeek Usage | deepseek开放平台 | [Link](https://platform.deepseek.com/usage) | [工具网址](#工具网址) | 2026-01-14 |
 
 ---
 
@@ -45,4 +46,5 @@
 | Title | Description | URL | Added |
 |-------|-------------|-----|-------|
 | AnyRouter Console | AnyRouter 控制台 | [Link](https://anyrouter.top/console) | 2026-01-14 |
+| DeepSeek Usage | deepseek开放平台 | [Link](https://platform.deepseek.com/usage) | 2026-01-14 |
 
