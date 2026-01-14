@@ -12,7 +12,7 @@
 |----------|-------|
 | [skill市场网址](#skill市场网址) | 1 |
 | [测试](#测试) | 1 |
-| [工具网址](#工具网址) | 3 |
+| [工具网址](#工具网址) | 4 |
 
 ---
 
@@ -24,6 +24,7 @@
 | Example Domain | Example website for testing | [Link](https://example.com) | [测试](#测试) | 2026-01-13 |
 | AnyRouter Console | AnyRouter 控制台 | [Link](https://anyrouter.top/console) | [工具网址](#工具网址) | 2026-01-14 |
 | DeepSeek Usage | deepseek开放平台 | [Link](https://platform.deepseek.com/usage) | [工具网址](#工具网址) | 2026-01-14 |
+| OceanEngine Agent | OceanEngine Agent 平台 | [访问](https://agent.oceanengine.com/) | [工具网址](#工具网址) | 2026-01-14 |
 
 ---
 
@@ -48,4 +49,5 @@
 | AnyRouter Console | AnyRouter 控制台 | [Link](https://anyrouter.top/console) | 2026-01-14 |
 | DeepSeek Usage | deepseek开放平台 | [Link](https://platform.deepseek.com/usage) | 2026-01-14 |
 | 88Code | 88Code 首页 | [Link](https://www.88code.ai/home-page) | 2026-01-14 |
+| OceanEngine Agent | OceanEngine Agent 平台 | [访问](https://agent.oceanengine.com/) | 2026-01-14 |
 
