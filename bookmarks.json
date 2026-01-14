@@ -1,0 +1,14 @@
+{
+  "bookmarks": [
+    {
+      "id": "b1",
+      "title": "AnyRouter Console",
+      "url": "https://anyrouter.top/console",
+      "description": "AnyRouter 控制台",
+      "tags": ["工具网址"],
+      "createdAt": "2026-01-14T00:00:00Z",
+      "folder": "默认"
+    }
+  ],
+  "folders": ["默认"]
+}
