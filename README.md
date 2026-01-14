@@ -10,9 +10,9 @@
 
 | Category | Count |
 |----------|-------|
-| [skill市场网址](#skill市场网址) | 1 |
-| [测试](#测试) | 1 |
-| [工具网址](#工具网址) | 4 |
+| [Skill Marketplace](#skill-marketplace) | 1 |
+| [Test](#test) | 1 |
+| [Tools](#tools) | 4 |
 
 ---
 
@@ -20,34 +20,34 @@
 
 | Title | Description | URL | Category | Added |
 |-------|-------------|-----|----------|-------|
-| skillsmp.com | Skill marketplace website | [Link](https://skillsmp.com/zh) | [skill市场网址](#skill市场网址) | 2026-01-13 |
-| Example Domain | Example website for testing | [Link](https://example.com) | [测试](#测试) | 2026-01-13 |
-| AnyRouter Console | AnyRouter 控制台 | [Link](https://anyrouter.top/console) | [工具网址](#工具网址) | 2026-01-14 |
-| DeepSeek Usage | deepseek开放平台 | [Link](https://platform.deepseek.com/usage) | [工具网址](#工具网址) | 2026-01-14 |
-| OceanEngine Agent | OceanEngine Agent 平台 | [访问](https://agent.oceanengine.com/) | [工具网址](#工具网址) | 2026-01-14 |
+| skillsmp.com | Skill marketplace website | [Link](https://skillsmp.com/zh) | [Skill Marketplace](#skill-marketplace) | 2026-01-13 |
+| Example Domain | Example website for testing | [Link](https://example.com) | [Test](#test) | 2026-01-13 |
+| AnyRouter Console | AnyRouter Console | [Link](https://anyrouter.top/console) | [Tools](#tools) | 2026-01-14 |
+| DeepSeek Usage | DeepSeek Open Platform | [Link](https://platform.deepseek.com/usage) | [Tools](#tools) | 2026-01-14 |
+| 88Code | 88Code Homepage | [Link](https://www.88code.ai/home-page) | [Tools](#tools) | 2026-01-14 |
+| OceanEngine Agent | OceanEngine Agent Platform | [Link](https://agent.oceanengine.com/) | [Tools](#tools) | 2026-01-14 |
 
 ---
 
 ## By Category
 
-### skill市场网址
+### Skill Marketplace
 
 | Title | Description | URL | Added |
 |-------|-------------|-----|-------|
 | skillsmp.com | Skill marketplace website | [Link](https://skillsmp.com/zh) | 2026-01-13 |
 
-### 测试
+### Test
 
 | Title | Description | URL | Added |
 |-------|-------------|-----|-------|
 | Example Domain | Example website for testing | [Link](https://example.com) | 2026-01-13 |
 
-### 工具网址
+### Tools
 
 | Title | Description | URL | Added |
 |-------|-------------|-----|-------|
-| AnyRouter Console | AnyRouter 控制台 | [Link](https://anyrouter.top/console) | 2026-01-14 |
-| DeepSeek Usage | deepseek开放平台 | [Link](https://platform.deepseek.com/usage) | 2026-01-14 |
-| 88Code | 88Code 首页 | [Link](https://www.88code.ai/home-page) | 2026-01-14 |
-| OceanEngine Agent | OceanEngine Agent 平台 | [访问](https://agent.oceanengine.com/) | 2026-01-14 |
-
+| AnyRouter Console | AnyRouter Console | [Link](https://anyrouter.top/console) | 2026-01-14 |
+| DeepSeek Usage | DeepSeek Open Platform | [Link](https://platform.deepseek.com/usage) | 2026-01-14 |
+| 88Code | 88Code Homepage | [Link](https://www.88code.ai/home-page) | 2026-01-14 |
+| OceanEngine Agent | OceanEngine Agent Platform | [Link](https://agent.oceanengine.com/) | 2026-01-14 |
