@@ -12,7 +12,7 @@
 |------|------|
 | [skill市场网址](#skill市场网址) | 1 |
 | [测试](#测试) | 1 |
-| [工具网址](#工具网址) | 5 |
+| [工具网址](#工具网址) | 6 |
 
 ---
 
@@ -27,6 +27,7 @@
 | 88Code | 88Code 首页 | [访问](https://www.88code.ai/home-page) | [工具网址](#工具网址) | 2026-01-14 |
 | OceanEngine Agent | OceanEngine Agent 平台 | [访问](https://agent.oceanengine.com/) | [工具网址](#工具网址) | 2026-01-14 |
 | 云视频管家 - 让灵感、创作到爆款更科学 | 视频管理领导者，助力企业管理视频素材，让灵感、创作到爆款更科学！素材、成片、爆款、多维标签、权限管控、绩效考核等一站式管理 | [访问](https://sucaiwang.zhishangsoft.com/) | [工具网址](#工具网址) | 2026-01-14 |
+| NotebookLM | Google AI 研究工具 - 帮助理解和组织信息 | [访问](https://notebooklm.google.com/) | [工具网址](#工具网址) | 2026-01-14 |
 
 ---
 
@@ -53,4 +54,4 @@
 | 88Code | 88Code 首页 | [访问](https://www.88code.ai/home-page) | 2026-01-14 |
 | OceanEngine Agent | OceanEngine Agent 平台 | [访问](https://agent.oceanengine.com/) | 2026-01-14 |
 | 云视频管家 - 让灵感、创作到爆款更科学 | 视频管理领导者，助力企业管理视频素材，让灵感、创作到爆款更科学！素材、成片、爆款、多维标签、权限管控、绩效考核等一站式管理 | [访问](https://sucaiwang.zhishangsoft.com/) | 2026-01-14 |
-
+| NotebookLM | Google AI 研究工具 - 帮助理解和组织信息 | [访问](https://notebooklm.google.com/) | 2026-01-14 |
