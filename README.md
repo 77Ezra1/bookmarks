@@ -47,5 +47,5 @@
 |-------|-------------|-----|-------|
 | AnyRouter Console | AnyRouter 控制台 | [Link](https://anyrouter.top/console) | 2026-01-14 |
 | DeepSeek Usage | deepseek开放平台 | [Link](https://platform.deepseek.com/usage) | 2026-01-14 |
-| 88Code | 88Code 首页 | [访问](https://www.88code.ai/home-page) | 2026-01-14 |
+| 88Code | 88Code 首页 | [Link](https://www.88code.ai/home-page) | 2026-01-14 |
 
