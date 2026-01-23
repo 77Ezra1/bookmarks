@@ -13,6 +13,7 @@
 | [Skill Marketplace](#skill-marketplace) | 1 |
 | [Test](#test) | 1 |
 | [Tools](#tools) | 6 |
+| [Docs](#docs) | 3 |
 
 ---
 
@@ -28,6 +29,9 @@
 | OceanEngine Agent | OceanEngine Agent Platform | [Link](https://agent.oceanengine.com/) | [Tools](#tools) | 2026-01-14 |
 | 云视频管家 | Video management platform | [Link](https://sucaiwang.zhishangsoft.com/) | [Tools](#tools) | 2026-01-14 |
 | NotebookLM | Google AI research tool - helps understand and organize information | [Link](https://notebooklm.google.com/) | [Tools](#tools) | 2026-01-14 |
+| Claude 文档 | Claude 官方中文文档首页 | [Link](https://platform.claude.com/docs/zh-CN/home) | [Docs](#docs) | 2026-01-23 |
+| n8n 部署方法 | n8n 工作流自动化平台部署指南 | [Link](https://n8n.akashio.com/article/n8n-deployment-method) | [Docs](#docs) | 2026-01-23 |
+| 襄阳木知识库 | 襄阳木飞书知识库 | [Link](https://xiangyangqiaomu.feishu.cn/wiki/Kw7VwKvAsiGtjhkecS9ctEC2nlb) | [Docs](#docs) | 2026-01-23 |
 
 ---
 
@@ -55,3 +59,11 @@
 | OceanEngine Agent | OceanEngine Agent Platform | [Link](https://agent.oceanengine.com/) | 2026-01-14 |
 | 云视频管家 | Video management platform | [Link](https://sucaiwang.zhishangsoft.com/) | 2026-01-14 |
 | NotebookLM | Google AI research tool - helps understand and organize information | [Link](https://notebooklm.google.com/) | 2026-01-14 |
+
+### Docs
+
+| Title | Description | URL | Added |
+|-------|------------|-----|-------|
+| Claude 文档 | Claude 官方中文文档首页 | [Link](https://platform.claude.com/docs/zh-CN/home) | 2026-01-23 |
+| n8n 部署方法 | n8n 工作流自动化平台部署指南 | [Link](https://n8n.akashio.com/article/n8n-deployment-method) | 2026-01-23 |
+| 襄阳木知识库 | 襄阳木飞书知识库 | [Link](https://xiangyangqiaomu.feishu.cn/wiki/Kw7VwKvAsiGtjhkecS9ctEC2nlb) | 2026-01-23 |
